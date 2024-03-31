@@ -10,5 +10,5 @@ This project implements a custom web chatbot using LangChain, a framework for na
 
 ## References
 
-- **LangChain Paper:** [Link to LangChain Paper](https://arxiv.org/abs/your-langchain-paper-id)
-- **GitHub Repository:** [Link to GitHub Repository](https://github.com/your-username/your-repo)
+- **CoVe Paper:** [Link to CoVe Paper](https://arxiv.org/abs/your-langchain-paper-id)
+- **Reference GitHub Repository:** [Link to GitHub Repository](https://github.com/ritun16/chain-of-verification))
