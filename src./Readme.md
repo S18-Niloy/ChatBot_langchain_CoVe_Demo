@@ -1,13 +1,12 @@
 # Fin Bot using LangChain
 
-Fin Bot is a chatbot implemented using LangChain, a natural language processing framework. This chatbot is specifically tailored for financial conversations and is capable of understanding and responding to queries related to various financial topics.
+Fin Bot is a custom_web_chatbot implemented on a banking website using LangChain, a natural language processing framework.
 
 ## Features
 
 - Utilizes LangChain for natural language understanding and generation.
-- Specialized in handling financial queries and conversations.
-- Implements techniques to ensure accuracy and reliability in financial responses.
-- Provides a user-friendly interface for interacting with the chatbot.
+- Specialized in handling particular website based queries and conversations.
+- Implements techniques to ensure accuracy and reliability in responses.
 
 ## Getting Started
 
