@@ -1,19 +1,27 @@
-Fin_bot_langchain
-This project implements a financial chatbot using LangChain, a framework for natural language processing and generation. The chatbot is designed to provide assistance and information related to various financial topics.
+# Fin Bot using LangChain
 
-Features
-Natural language understanding and generation for financial queries.
-Integration with LangChain for advanced language processing.
-Web interface for user interaction.
-Capable of handling complex financial queries and providing accurate responses.
-Usage
-Installation: Clone the repository and install dependencies.
+Fin Bot is a chatbot implemented using LangChain, a natural language processing framework. This chatbot is specifically tailored for financial conversations and is capable of understanding and responding to queries related to various financial topics.
 
-bash
-Copy code
+## Features
+
+- Utilizes LangChain for natural language understanding and generation.
+- Specialized in handling financial queries and conversations.
+- Implements techniques to ensure accuracy and reliability in financial responses.
+- Provides a user-friendly interface for interacting with the chatbot.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook or any compatible environment
+
+### Installation
+
+1. Clone the repository:
+
+```bash
 git clone [https://github.com/your-username/fin-bot-langchain.git](https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git)
 pip install -r requirements.txt
 cd src
-python3 
-
-Interacting with the Chatbot: Access the chatbot interface through the web browser and start typing your financial queries. The chatbot will respond with relevant information and assistance.
+python3 Fin_bot_langchain.ipynb
