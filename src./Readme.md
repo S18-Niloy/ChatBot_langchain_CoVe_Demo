@@ -22,6 +22,12 @@ Fin Bot is a chatbot implemented using LangChain, a natural language processing 
 
 ```bash
 git clone [https://github.com/your-username/fin-bot-langchain.git](https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git)
+```
+2. Install dependencies:
+```
 pip install -r requirements.txt
+```
+```
 cd src
 python3 Fin_bot_langchain.ipynb
+```
