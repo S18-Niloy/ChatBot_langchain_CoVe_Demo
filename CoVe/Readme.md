@@ -16,7 +16,9 @@ git clone [https://github.com/your-username/fin-bot-langchain.git](https://githu
 ```
 pip install -r requirements.txt
 ```
-
+```
+cd CoVe
+```
 
 ### References
 - **Reference GitHub Repository:** [Link to GitHub Repository](https://github.com/ritun16/chain-of-verification)
