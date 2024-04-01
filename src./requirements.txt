@@ -1,9 +1,0 @@
-openai==0.28.0
-langchain
-tiktoken
-faiss-cpu
-unstructured
-transformers
-accelerate
--i https://pypi.org/simple/ bitsandbytes
-sentence-transformers
