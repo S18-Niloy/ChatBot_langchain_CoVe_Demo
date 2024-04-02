@@ -22,7 +22,7 @@ pip install -r requirements.txt
 cd Only_langchain
 ```
 ```
-python3 
+python3 Fin_bot_langchain.ipynb
 ```
 
 # Reference Link
