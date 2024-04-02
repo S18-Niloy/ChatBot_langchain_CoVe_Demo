@@ -27,4 +27,5 @@ cd CoVe
 - **DuckDuckGoSearch:** [Documentation](https://pypi.org/project/duckduckgo-search/)
 - **BasePromptTemplate:** [Documentation](https://api.python.langchain.com/en/latest/prompts/langchain_core.prompts.base.BasePromptTemplate.html)
 - **langchain_core.language_models.base.BaseLanguageModel:** [Documentation](https://api.python.langchain.com/en/latest/language_models/langchain_core.language_models.base.BaseLanguageModel.html)
-- **Pydantic:**[Documentation](https://docs.pydantic.dev/latest/) 
+- **Pydantic:**[Documentation](https://docs.pydantic.dev/latest/)
+- **langchain_core.callbacks.manager.CallbackManagerForChainRun:** [Documentation](https://api.python.langchain.com/en/latest/callbacks/langchain_core.callbacks.manager.CallbackManagerForChainRun.html)
