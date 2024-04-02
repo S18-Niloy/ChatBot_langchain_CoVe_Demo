@@ -12,7 +12,7 @@ Here I have made a custom chatbot of a bank website using langchain.
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/fin-bot-langchain.git](https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git)
+git clone https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git
 ```
 2. Install dependencies:
 ```
