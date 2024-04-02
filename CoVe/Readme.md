@@ -29,3 +29,4 @@ cd CoVe
 - **langchain_core.language_models.base.BaseLanguageModel:** [Documentation](https://api.python.langchain.com/en/latest/language_models/langchain_core.language_models.base.BaseLanguageModel.html)
 - **Pydantic:**[Documentation](https://docs.pydantic.dev/latest/)
 - **langchain_core.callbacks.manager.CallbackManagerForChainRun:** [Documentation](https://api.python.langchain.com/en/latest/callbacks/langchain_core.callbacks.manager.CallbackManagerForChainRun.html)
+- **Itertools:** {Documentation] (https://docs.python.org/3/library/itertools.html)
