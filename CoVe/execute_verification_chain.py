@@ -1,15 +1,6 @@
-import os
-import re
 import itertools
-import openai
-import tiktoken #tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-import json
-from dotenv import load_dotenv  #Python-dotenv reads key-value pairs from a .env file and can set them as environment variables
-
 from typing import Any, Dict, List, Optional
-
 from pydantic import Extra
-
 from langchain.schema.language_model import BaseLanguageModel
 from langchain.callbacks.manager import (
     AsyncCallbackManagerForChainRun,
@@ -60,16 +51,12 @@ class ExecuteVerificationChain(Chain):
     @property
     def input_keys(self) -> List[str]:
         """Will be whatever keys the prompt expects.
-
-        :meta private:
         """
         return [self.input_key]
 
     @property
     def output_keys(self) -> List[str]:
         """Will always return text key.
-
-        :meta private:
         """
         return [self.output_key]
 
