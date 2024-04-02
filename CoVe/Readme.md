@@ -10,7 +10,7 @@
 1. Clone the repository:
 
 ```bash
-git clone git clone https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git
+git clone https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git
 ```
 2. Install dependencies:
 ```
