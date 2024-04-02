@@ -1,0 +1,9 @@
+openai
+langchain
+faiss-cpu
+tiktoken
+unstructured
+transformers==4.28.0
+sentence-transformers
+accelerate
+-i https://pypi.org/simple/ bitsandbytes
