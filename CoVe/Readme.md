@@ -25,3 +25,4 @@ cd CoVe
 - **Langchain:** [Documentation](https://www.langchain.com/)
 - **TikToken:** [Link to Github Repository](https://github.com/openai/tiktoken)
 - **DuckDuckGoSearch:** [Documentation](https://pypi.org/project/duckduckgo-search/)
+-  **BasePromptTemplate:** [Documentation](https://api.python.langchain.com/en/latest/prompts/langchain_core.prompts.base.BasePromptTemplate.html)
