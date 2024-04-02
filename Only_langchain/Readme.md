@@ -26,4 +26,5 @@ python3 Fin_bot_langchain.ipynb
 ```
 
 # Reference Link
-- Youtube : (Link to Youtube)[https://youtu.be/RBnuhhmD21U?si=8aagQH4L6CpMwX3z] [https://youtu.be/M4G2zk4X93Y?si=i_wAqoeBQDzLxjM2]
+- Youtube : [Link_1 to Youtube](https://youtu.be/RBnuhhmD21U?si=8aagQH4L6CpMwX3z) [Link_2 to Youtube](https://youtu.be/M4G2zk4X93Y?si=i_wAqoeBQDzLxjM2)
+  
