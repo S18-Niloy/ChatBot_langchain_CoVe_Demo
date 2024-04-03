@@ -16,11 +16,15 @@ git clone https://github.com/S18-Niloy/ChatBot_langchain_CoVe.git
 ```
 pip install -r requirements.txt
 ```
+3. Set API key for creating environment:
 ```
-cd CoVe
+os.environ["OPENAI_API_KEY"]="sk-............"
 ```
 ```
-cd src
+cd CoVe/src
+```
+```
+!python3 main.py --question "Who are allowed to open student bank account?"
 ```
 
 ### References
