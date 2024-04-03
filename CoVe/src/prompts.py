@@ -18,7 +18,7 @@ Question: {original_question}
 Answer:"""
 
 ################################################################### PLAN VERIFICATION PROMPTS ###################################################################
-VERIFICATION_QUESTION_TEMPLATE_PROMPT_FROM_WEBSITE = """Your task is to create a verification question based on the below question provided.
+VERIFICATION_QUESTION_TEMPLATE_PROMPT_WIKI = """Your task is to create a verification question based on the below question provided.
 Example Question: How to create student bank account?
 Example Verification Question: Are [students] allowed to open [bank account]
 Explanation: In the above example the verification question focused only on the ANSWER_ENTITY (student bank account) and QUESTION_ENTITY (creating student bank account).
@@ -28,7 +28,7 @@ Actual Question: {original_question}
 
 Final Verification Question:"""
 
-VERIFICATION_QUESTION_TEMPLATE_PROMPT_FROM_WEBSITE = """Your task is to create a series of verification questions based on the below question, the verfication question template and baseline response.
+VERIFICATION_QUESTION_TEMPLATE_PROMPT_WIKI = """Your task is to create a series of verification questions based on the below question, the verfication question template and baseline response.
 Example Question: How to create student bank account?
 Example Verification Question: Are [students] allowed to open [bank account]
 Example Baseline Response: 1. Verifying NID and Student ID card
@@ -128,4 +128,3 @@ LONG_CHAIN:
     
 Actual Question: {}
 Final JSON Output:"""
-
