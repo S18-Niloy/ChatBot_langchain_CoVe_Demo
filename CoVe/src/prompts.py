@@ -19,18 +19,18 @@ Answer:"""
 
 ################################################################### PLAN VERIFICATION PROMPTS ###################################################################
 VERIFICATION_QUESTION_TEMPLATE_PROMPT_WIKI = """Your task is to create a verification question based on the below question provided.
-Example Question: How to create student bank account?
-Example Verification Question: Are [students] allowed to open [bank account]
-Explanation: In the above example the verification question focused only on the ANSWER_ENTITY (student bank account) and QUESTION_ENTITY (creating student bank account).
+Example Question: Who are allowed to open student bank account?
+Example Verification Question: Is a [student] allwed to open [bank account]
+Explanation: In the above example the verification question focused only on the ANSWER_ENTITY (creating student bank account) and QUESTION_ENTITY (student).
 Similarly you need to focus on the ANSWER_ENTITY and QUESTION_ENTITY from the actual question and generate verification question.
 
 Actual Question: {original_question}
 
 Final Verification Question:"""
 
-VERIFICATION_QUESTION_TEMPLATE_PROMPT_WIKI = """Your task is to create a series of verification questions based on the below question, the verfication question template and baseline response.
-Example Question: How to create student bank account?
-Example Verification Question: Are [students] allowed to open [bank account]
+VERIFICATION_QUESTION_PROMPT_WIKI = """Your task is to create a series of verification questions based on the below question, the verfication question template and baseline response.
+Example Question: Who are allowed to open student bank account?
+Example Verification Question Template: Is a [student] allwed to open bank account?
 Example Baseline Response: 1. Verifying NID and Student ID card
 2. Verifying nominee with his/her NID
 Verification questions: 1. Are all students allowed to open bank account?
