@@ -19,6 +19,9 @@ pip install -r requirements.txt
 ```
 cd CoVe
 ```
+```
+cd src
+```
 
 ### References
 - **Reference GitHub Repository:** [Link to GitHub Repository](https://github.com/ritun16/chain-of-verification)
