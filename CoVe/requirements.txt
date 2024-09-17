@@ -1,5 +1,5 @@
 openai==0.28.0
-langchain==0.0.300
+langchain==0.2.10
 duckduckgo-search
 tiktoken
 tenacity
